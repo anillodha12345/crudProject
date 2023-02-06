@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "Deepak Lodha",
+      "email": "deepaklodha.guna21@gmail.com",
+      "add": "Ujjain",
+      "college": "DAVV",
+      "branch": "Information Technology"
+    },
+    {
+      "id": 1,
+      "name": "Krishna Lodha",
+      "email": "Kkrishna.guna21@gmail.com",
+      "add": "Guna",
+      "college": "vits",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 2,
+      "name": "Rakesh Lodha",
+      "email": "rakesh.guna21@gmail.com",
+      "add": "Guna",
+      "college": "MITS",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 3,
+      "name": "Damodar Lodha",
+      "email": "Ddamodar.guna21@gmail.com",
+      "add": "Guna",
+      "college": "SATI",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 4,
+      "name": "Kuldeep Lodhas",
+      "email": "kuldeep.guna21@gmail.com",
+      "add": "Guna",
+      "college": "vits",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 5,
+      "name": "Manmohan Lodha",
+      "email": "manmohan.guna21@gmail.com",
+      "add": "Delhi",
+      "college": "SGITS",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 6,
+      "name": "Ghanshyam Lodha",
+      "email": "ghanshyam.guna21@gmail.com",
+      "add": "Shivpuri",
+      "college": "DAVV",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 7,
+      "name": "Pradeep Lodha",
+      "email": "preadeeplodha.guna21@gmail.com",
+      "add": "Gwalior",
+      "college": "PG",
+      "branch": "computer Sciences"
+    },
+    {
+      "id": 8,
+      "name": "priyanka Lodha",
+      "email": "priyanka@gmail.com",
+      "add": "Guna",
+      "college": "Davv",
+      "branch": "CSE"
+    }
+  ]
+}
