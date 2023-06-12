@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    .Container {
+    width: 100%;
+    }
+    .slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin: 0 auto;
+    }
+    .slick-prev {
+    left: -60px;
+    background-color: white;
+    }
+    .slick-next {
+    right: -60px;
+   
+    }
+    .slick-prev:hover,
+    .slick-prev:focus,
+    .slick-next:hover,
+    .slick-next:focus {
+    color: none;
+    outline: none;
+    background: black;
+    }
+    .preview_img_wrp {
+    line-height: 264px;
+    text-align: center;
+    height: 264px;
+    margin: 0 auto 12px;
+    display: flex;
+    }
+    .card_description {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .card_description p {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .card_title {
+    line-height: 1.5em;
+    height: 3em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+    }
+    .card_title h4{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        }
+    .rating {
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 16px;
+    padding: 4px 8px;
+    background: rgb(3, 141, 99);
+    fill: rgb(255, 255, 255);
+
+    }
+    .slick-next:before {
+        content: '→';
+        opacity: 1;
+        color: black;
+        font-size: 30px;
+    }
+    .slick-prev:before {
+        content: '←';
+        /* content: "\e875"; */
+        opacity: 1;
+        color: black;
+        font-size: 30px;
+    }
+    
+    .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+        color: none;
+        outline: none;
+        background: white;
+    }
+    .slick-prev.slick-disabled:before, .slick-next.slick-disabled:before {
+        opacity: 1;
+    }

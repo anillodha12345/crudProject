@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "Anil Lodha",
+      "email": "anil@gmail.com",
+      "address": "Guna",
+      "college": "VITS",
+      "branch": "Computer Sciences"
+    },
+    {
+      "id": 1,
+      "name": "Vinod Raikwar",
+      "email": "vinod@gmail.com",
+      "address": "Indore",
+      "college": "DAVV",
+      "branch": "Civil"
+    },
+    {
+      "id": 2,
+      "name": "Pavan Lodha",
+      "email": "pavan@gmail.com",
+      "address": "Gwalior",
+      "college": "VITS",
+      "branch": "information"
+    },
+    {
+      "id": 3,
+      "name": "Kuldeep Dhakad",
+      "email": "kuldeep@gmail.com",
+      "address": "Indore",
+      "college": "SITM",
+      "branch": "EC"
+    },
+    {
+      "name": "Manmohan ",
+      "email": "manmohan@gmail.com",
+      "address": "Guna",
+      "branch": "Information Technology",
+      "college": "SGSITS",
+      "id": 5
+    },
+    {
+      "name": "Rohit Sen",
+      "email": "rohit@gmail.com",
+      "address": "Guna",
+      "branch": "Computer Sciences",
+      "college": "SGSITS",
+      "id": 6
+    },
+    {
+      "name": "Pradeep DFG",
+      "email": "pradeep@gmail.com",
+      "address": "Guna",
+      "branch": "Computer Sciences",
+      "college": "PG COllege",
+      "id": 7
+    },
+    {
+      "name": "Shivam ",
+      "email": "shivam@gmail.com",
+      "address": "Guna",
+      "branch": "Computer Sciences",
+      "college": "Pg College",
+      "id": 8
+    },
+    {
+      "name": "Vandana mam",
+      "email": "vandana@gmail.com",
+      "address": "Bhopal",
+      "branch": "Computer Sciences",
+      "college": "SGSITS",
+      "id": 9
+    }
+  ]
+}

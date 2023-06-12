@@ -1,0 +1,9 @@
+
+.products {
+    background-color: red;
+}
+h6 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
